@@ -1,0 +1,14 @@
+{
+    "name": "boieva/myproject",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Nataliia Boieva",
+            "email": "n.m.oliinyk@gmail.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
